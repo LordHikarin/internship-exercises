@@ -105,10 +105,10 @@ En base al escenario anterior, responde los siguientese ejercicios
     └── 📁 user
         └── 📃 binary.bin # your binary is here
 ```
-//Moverse al directorio donde está el binario
+# Moverse al directorio donde está el binario
 cd /home/user
 
-// Mover el binario a /usr/local/bin
+# Mover el binario a /usr/local/bin
 sudo mv binary.bin /usr/local/bin
 
 2. Explica que acciones realizan los comandos que elegiste
@@ -118,6 +118,6 @@ Luego de eso, se utiliza mv para mover binary.bin al directorio /usr/local/bin. 
 
 ### Puntos extra
 3. Para que se utiliza el comando `wget`?
-Descargar archivos desde la Red por medio de la terminal
+# Descargar archivos desde la Red por medio de la terminal
 4. Que cambios realizó el comando `chmod` en el archivo descargado?
-El comando chmod +x binary.bin otorga permisos de ejecucion al archivo seleccionado, otorgando la capacidad de ejecutarlo como si de un programa se tratara.
+# El comando chmod +x binary.bin otorga permisos de ejecucion al archivo seleccionado, otorgando la capacidad de ejecutarlo como si de un programa se tratara.
