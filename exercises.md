@@ -118,6 +118,6 @@ Luego de eso, se utiliza mv para mover binary.bin al directorio /usr/local/bin. 
 
 ### Puntos extra
 3. Para que se utiliza el comando `wget`?
-Descargar archivos desde la Red.
+Descargar archivos desde la Red por medio de la terminal
 4. Que cambios realizó el comando `chmod` en el archivo descargado?
 El comando chmod +x binary.bin otorga permisos de ejecucion al archivo seleccionado, otorgando la capacidad de ejecutarlo como si de un programa se tratara.
